@@ -90,7 +90,7 @@ padding: 5px 10px;
 @media only screen and (max-width: 767px) {
 	header h1, .sf-menu li, nav{float:none;clear: both;}
 	header h1{margin-bottom: 20px;}
-	.sf-menu{background:#111f2c;}
+	.sf-menu{background:black;}
 	.sf-menu>li, .sf-menu>li:first-child{background: url('../images/sub_li_r.png') 0 bottom repeat-x;}
 	.sf-menu>li>a{color:#F5D12F;padding: 9px 20px;display:block;}
 	.sf-menu>li>a:hover,.sf-menu>li.current>a,.sf-menu>li.sfHover>a{ color:#fff;}
