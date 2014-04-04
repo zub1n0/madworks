@@ -42,9 +42,9 @@ body {
 	font-family: "ClarendonLTStdLight", Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 24px;
-	color: #62676d;
+	color: #fff;
 	min-width: 960px;
-	background: #fff;
+	background: #12212f;
 	-webkit-text-size-adjust: none;
 }
 p {
