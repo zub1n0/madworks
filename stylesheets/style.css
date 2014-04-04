@@ -13,6 +13,19 @@ mark, rp, rt, ruby, summary, time {
 Global properties
 ========================================================
 */
+.logo {
+  left: 0;
+  position: relative;
+  text-align: center;
+  top: -150px;
+  width: 100%;
+  margin-bottom: 32px;
+}
+/* line 29, ../sass/screen.scss */
+.logo img {
+  height: 112px;
+  width: 600px;
+}
 
 @font-face {
 	font-family: 'ClarendonLTStdLight';
