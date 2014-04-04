@@ -95,9 +95,9 @@ padding: 5px 10px;
 	.sf-menu>li>a{color:#F5D12F;padding: 9px 20px;display:block;}
 	.sf-menu>li>a:hover,.sf-menu>li.current>a,.sf-menu>li.sfHover>a{ color:#fff;}
 	.sf-menu>li:hover,.sf-menu>li.current,.sf-menu>li.sfHover{background-color:#224657;}
-	.sf-menu ul{position:relative;padding:0;background:none;left:0;top:0;}
+	.sf-menu ul{position:relative;padding:0;background:black;left:0;top:0;}
 	.sf-menu>li>ul,.sf-menu>li.sfHover>ul{padding:0 0 20px;top:0px;left:30px;width:100%;background:none;}
-	.sf-menu li ul li{text-align:left;background:black;}
+	.sf-menu li ul li{text-align:left;background:none;}
 	.sf-menu li li ul{left:0;top:0;background:none;padding:0 0 0 20px;}
 	
 	.sf-menu li a .menu-arrow{display:inline-block; width:10px;margin-left:15px;height:7px;text-indent:-100%; font-size:0; line-height:0;background: url('../images/arrow.png') no-repeat;vertical-align: middle;}
