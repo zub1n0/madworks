@@ -7,7 +7,7 @@ nav{ position:relative; margin: 0px -15px 0 0; padding:2px 0 0 0; float:right;}
 .sf-menu>li:first-child{ background:none;}
 .sf-menu>li>a:hover,.sf-menu>li.current>a,.sf-menu>li.sfHover>a{
 	
-	background: black;
+	background: #12212F;
 border-radius: 3px;
 padding: 5px 10px;
 	color:#fff;
@@ -31,7 +31,7 @@ padding: 5px 10px;
 
 }
 .sf-menu>li>ul>li{ text-align:left; }
-.sf-menu li ul li:first-child{ background:none;}
+.sf-menu li ul li:first-child{ background:black;}
 .sf-menu li ul li a{
 	font-size: 13px; line-height: 24px; color:#fff; text-align:left; text-transform:uppercase;
 	display: block;
@@ -96,7 +96,7 @@ padding: 5px 10px;
 	.sf-menu>li>a:hover,.sf-menu>li.current>a,.sf-menu>li.sfHover>a{ color:#fff;}
 	.sf-menu>li:hover,.sf-menu>li.current,.sf-menu>li.sfHover{background-color:#224657;}
 	.sf-menu ul{position:relative;padding:0;background:none;left:0;top:0;}
-	.sf-menu>li>ul,.sf-menu>li.sfHover>ul{padding:0 0 20px;top:0px;left:30px;width:100%;background:none;}
+	.sf-menu>li>ul,.sf-menu>li.sfHover>ul{padding:0 0 20px;top:0px;left:30px;width:100%;background:black;}
 	.sf-menu li ul li{text-align:left;background:none;}
 	.sf-menu li li ul{left:0;top:0;background:none;padding:0 0 0 20px;}
 	
